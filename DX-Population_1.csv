@@ -1,0 +1,21 @@
+Person ID,Age,Sex,Weight  in lbs,Height in Inch,IQ,Units of alcohol per day,Cigarettes per day,Marital Status,Additional People in household,Salary,Active,Health Score (high is good)
+1,74,Male,146,74,93,0,28,Single,2,24983,Active,?
+2,36,Male,158,67,101,0,0,Cohabiting,4,53407,Very Active,?
+3,40,Male,160,71,100,0,0,Married,1,55433,Very Active,?
+4,63,Female,117,61,98,0,0,Married,1,53571,Very Active,?
+5,74,Female,156,66,97,3,0,Cohabiting,1,24911,Very Active,?
+6,24,Male,169,77,104,1,0,Married,4,25131,Very Active,?
+7,26,Male,189,71,109,0,0,Married,2,54766,Active,?
+8,48,Male,159,71,101,2,0,Married,4,54539,Active,?
+9,38,Female,131,69,115,1,0,Married,2,52867,Active,?
+10,70,Female,112,70,101,0,5,Married,3,25088,Very Active,?
+11,29,Male,182,72,94,0,0,Married,4,56164,Inactive,?
+12,50,Female,134,68,98,1,0,Widowed,3,55390,Inactive,?
+13,46,Female,120,70,97,2,0,Single,2,57154,Inactive,?
+14,64,Female,134,61,93,2,33,Married,1,57886,Active,?
+15,66,Male,144,69,95,1,0,Married,2,25093,Inactive,?
+16,25,Female,142,65,98,1,0,Single,1,55957,Very Active,?
+17,20,Female,138,63,104,0,0,Single,3,24858,Active,?
+18,56,Female,122,60,106,1,0,Married,3,52196,Inactive,?
+29,46,Female,131,65,103,1,0,Divorced,2,55884,Inactive,?
+20,29,Female,145,64,98,1,16,Married,4,53383,Very Active,?
